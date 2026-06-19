@@ -1,0 +1,14 @@
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Go build artifacts
+/gonewweb
+*.test
+*.out
+
+# Logs and temporary files
+*.log
+tmp/
+dist/
